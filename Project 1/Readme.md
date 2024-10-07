@@ -1,9 +1,9 @@
-Project ID - #CC6545
-Project Title - Logo Design for a Coffee Shop
-Internship Domain - Graphics Designer Intern
-Project Level - Entry Level
-Assigned By- CodeClause Internship
-Assigned To- Pradeep Joshwa
+- Project ID - #CC6545
+- Project Title - Logo Design for a Coffee Shop
+- Internship Domain - Graphics Designer Intern
+- Project Level - Entry Level
+- Assigned By- CodeClause Internship
+- Assigned To- Pradeep Joshwa
 ## Project Details
 ### Aim 
 Create a visually appealing and unique logo for a fictional coffee shop.
