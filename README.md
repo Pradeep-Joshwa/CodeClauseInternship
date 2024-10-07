@@ -1,4 +1,4 @@
-CodeClause Internship - Graphic Design Intern
+<h1>CodeClause Internship - Graphic Design Intern</h1>
 👋 Hi! I'm Pradeep Joshwa, and this repository showcases the work I've done during my internship at CodeClause as a Graphic Design Intern. I had the opportunity to develop hands-on skills in graphic design, UI/UX principles, and collaborate on various creative projects.
 
 📁 Projects
