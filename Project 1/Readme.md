@@ -4,7 +4,7 @@ Internship Domain - Graphics Designer Intern
 Project Level - Entry Level
 Assigned By- CodeClause Internship
 Assigned To- Pradeep Joshwa
-## <h1>Project Details</h1>
+## Project Details
 ### Aim 
 Create a visually appealing and unique logo for a fictional coffee shop.
 ### Description
