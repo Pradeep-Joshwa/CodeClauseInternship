@@ -1,8 +1,8 @@
 <h1>CodeClause Internship - Graphic Design Intern</h1>
 👋 Hi! I'm Pradeep Joshwa, and this repository showcases the work I've done during my internship at CodeClause as a Graphic Design Intern. I had the opportunity to develop hands-on skills in graphic design, UI/UX principles, and collaborate on various creative projects.
 
-📁 Projects
-1. Coffee Shop Logo Design
+📁 Projects #
+1. Coffee Shop Logo Design#
 Overview: Created a sleek and modern logo for a local coffee shop.
 Tools Used: Adobe Illustrator, Photoshop.
 Design Approach: Focused on simplicity and brand identity, ensuring the logo resonated with the coffee culture and attracted potential customers.
